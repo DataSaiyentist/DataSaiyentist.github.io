@@ -1,4 +1,4 @@
-# Data Saiyentist
+![Hunter X Hunter](https://github.com/DataSaiyentist/DataSaiyentist.github.io/blob/4caa658d8c37a845eb97c114178d2f114e04a27a/20200820_162104.jpg)
 
 Hello ! This is my personal website.  
 The creation of this website has two purposes:
@@ -23,9 +23,9 @@ o [Ankidroid](advice/ankidroid/ankidroid.md)
 
 ## Cultural recommendation
 
-I would like to present you some of my favorite titles (movies, series, video games, books, comics/ BDs, manga).I prescribe strongly to take a look at it.
+I would like to present you some of my favorite titles (movies, series, video games, books, comics/ BDs, manga). I prescribe strongly to take a look at it.
 
-**However, I have to warn you that my judgement is purely subjective. So, don't be hurt by my opinions and feel free to leave if you're offended!**
+**However, I have to warn you that my judgement is purely subjective. So, don't be hurt by my opinions and feel free to leave if you're offended !**
 
 **It's normal to disagree sometimes !**
 
