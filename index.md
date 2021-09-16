@@ -1,7 +1,6 @@
 # Data Saiyentist
 
-Hello ! This is my personal website.
-</br>
+Hello ! This is my personal website.  
 The creation of this website has two purposes:
 * to present you my hobbies
 * to give you advice
@@ -11,8 +10,7 @@ The creation of this website has two purposes:
 
 I would like to give advice to save you time but also to make you less foolish (as I always was when I learned some of it).
 
-o [Soft skills](advice/skills/skills.md)
-</br>
+o [Soft skills](advice/skills/skills.md)  
 o [Ankidroid](advice/ankidroid/ankidroid.md)
 
 ### o Hardware & Software
@@ -25,12 +23,9 @@ o [Ankidroid](advice/ankidroid/ankidroid.md)
 
 ## Cultural recommendation
 
-I would like to present you some of my favorite titles (movies, series, video games, books, comics/ BDs, manga).
-</br>
-I prescribe strongly to take a look at it.
+I would like to present you some of my favorite titles (movies, series, video games, books, comics/ BDs, manga).I prescribe strongly to take a look at it.
 
 **However, I have to warn you that my judgement is purely subjective. So, don't be hurt by my opinions and feel free to leave if you're offended!**
-</br>
 
 **It's normal to disagree sometimes !**
 
