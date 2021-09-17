@@ -1,5 +1,6 @@
 ---
 title: Data Saiyentist
+image: 20200820_162104.jpg
 ---
 
 .window {
