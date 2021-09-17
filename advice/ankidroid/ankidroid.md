@@ -45,13 +45,13 @@ It enables you to study all sorts of things wherever and whenever you want. Pers
 
 There are additional features like writing answers (which is optional, but I advice you to not use it… In my opinion, it’s more efficient to practice by yourself… Ankidroid is just a support).
 
-|:![Ankidroid: type tha answer](src/type1.jpg){: height="500" }:|:![Ankidroid: type the answer](src/type2.jpg){: height="500" }:|
+|![Ankidroid: type tha answer](src/type1.jpg){: height="500" }|![Ankidroid: type the answer](src/type2.jpg){: height="500" }|
 
 > If you prefer interaction rather than practice, then you can test **Memrise** (through gamified tests). But you'll just benefit from fast memorization...
 
 You can edit or add cards, import shared packages and there is a whiteboard.
 
-|:![Ankidroid: whiteboard](src/write1.jpg){: height="500" }:|:![Ankidroid: whiteboard](src/write2.jpg){: height="500" }:|
+|![Ankidroid: whiteboard](src/write1.jpg){: height="500" }|![Ankidroid: whiteboard](src/write2.jpg){: height="500" }|
 
 ### o Create a package in Anki
 
@@ -60,10 +60,15 @@ Go in `Add` (``Ajouter``) so you can create a cart.
 ![Anki: package](src/package.png)
 
 But before, don’t forget to create a package.
-You go here. Then click `Add` (``Ajouter``) to create a package.
+You go here.
+
+![Anki: package](src/package2.png)
+
+Then click `Add` (``Ajouter``) to create a package.
 Let’s name it Anki-test.
 
-|:![Anki: package](src/package2.png):|:![Anki: package](src/package3.png):|:![Anki: package](src/package4.png):|
+![Anki: package](src/package3.png)
+![Anki: package](src/package4.png)
 
 Then you can create you cards.
 What you type in `Front` is what will appear first. And when you click to show the answer, it will reveal what you type in `Back`.
@@ -75,4 +80,4 @@ There are different type of cards but the most commonly used are:
 * `Basic and reversed cards`
 * `Basic (type in the answer)`
 
-[back](././)
+[Go back](..)
