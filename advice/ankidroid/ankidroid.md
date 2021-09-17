@@ -8,7 +8,7 @@ description: Personal advice (What I would have like to know sooner) and cultura
 
 ## About Anki
 
-|![Anki logo](src/anki.png){: height="300" }|
+|![Anki logo](src/anki.png){: height="300" }|<p>
 Anki is a free and open-source flashcard program.
 </br>
 As mentioned by the program name, 
@@ -19,7 +19,7 @@ any user can **create a set of cards using text,
 </br>
 images, sounds, videos and LaTeX** in order to
 </br>
-learn or remember something.|
+learn or remember something.</p>|
 
 For example, you can:
 * learn a language, a computing language
