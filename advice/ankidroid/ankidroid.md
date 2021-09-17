@@ -91,13 +91,3 @@ There are different type of cards but the most commonly used are:
 * `Basic (type in the answer)`
 
 [Go back](../..)
-
-|---------------+---------------+--------------------|
-| Fruit         | Price         | Advantages         |
-|---------------+---------------+--------------------|
-| Bananas       | first line\\  | first line\\       |
-|               | next line     | next line          |
-|---------------+---------------+--------------------|
-| Bananas       | first line\\  | first line\\       |
-|               | next line     | next line          |
-|===============+===============+====================|
