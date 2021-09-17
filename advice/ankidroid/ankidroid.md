@@ -8,8 +8,18 @@ description: Personal advice (What I would have like to know sooner) and cultura
 
 ## About Anki
 
-|![Anki logo](src/anki.png)|
-Anki is a free and open-source flashcard program.  As mentioned by the program name, which means “memorization” in Japanese, any user can **create a set of cards using text, images, sounds, videos and LaTeX** in order to learn or remember something.|
+|![Anki logo](src/anki.png){: height="300" }|
+Anki is a free and open-source flashcard program.
+</br>
+As mentioned by the program name, 
+</br>
+which means “memorization” in Japanese, 
+</br>
+any user can **create a set of cards using text,
+</br>
+images, sounds, videos and LaTeX** in order to
+</br>
+learn or remember something.|
 
 For example, you can:
 * learn a language, a computing language
@@ -20,7 +30,21 @@ For example, you can:
 
 ## Why you should use it
 
-|![Filozoph](src/basic.jpg)|In my opinion, Anki is a program which makes remembering things easy. Because it's a lot more efficient than traditional study methods.  For instance, if you have an exam in 1 week, you’ll begin to study it. If you study well, admittedly you’ll remember it for the exam, but maybe not after it.|
+|![Filozoph](src/basic.jpg)|In my opinion, Anki is a program
+</br>
+which makes remembering things easy.
+</br>
+Because it's a lot more efficient than
+</br>
+traditional study methods.
+</br>
+For instance, if you have an exam in 1 week,
+</br>
+you’ll begin to study it. If you study well, 
+</br>
+admittedly you’ll remember it for the exam,
+</br>
+but maybe not after it.|
 
 ![Fast and long-lasting memorization](src/longlasting.jpg)
 
@@ -34,15 +58,51 @@ Personally, I got used to using it during my 2 year undergraduate intensive cour
 
 ### o Ankidroid
 
-|![Ankidroid](src/ankidroid.png)|![Ankidroid: synchronization](src/home.jpg){: height="500" }|Let me just introduce you a little add-on which is **Ankidroid**.  Ankidroid is a phone application fully compatible with the software Anki by **synchronization (so you have to create an account)**.|
+|![Ankidroid](src/ankidroid.png)|![Ankidroid: synchronization](src/home.jpg){: height="500" }|Let me just introduce you
+</br>
+a little add-on which is
+</br>
+**Ankidroid**.  
+
+Ankidroid is a phone
+</br>
+application fully 
+</br>
+compatible with the 
+</br>
+software Anki by 
+</br>
+**synchronization 
+</br>
+(so you have to create an 
+</br>
+account)**.|
 
 
 
 It enables you to study all sorts of things wherever and whenever you want. Personally, I made good use of idle times on bus, train and subway during my 2 year undergraduate intensive course because it took me at least 1 hour to commute.
 
-|![Ankidroid: type tha answer](src/type1.jpg){: height="500" }|![Ankidroid: type the answer](src/type2.jpg){: height="500" }|There are additional features like writing answers (which is optional, but I advice you to not use it… In my opinion, it’s more efficient to practice by yourself… Ankidroid is just a support).|
+|![Ankidroid: type tha answer](src/type1.jpg){: height="500" }|![Ankidroid: type the answer](src/type2.jpg){: height="500" }|There are additional features
+</br>
+like writing answers 
+</br>
+(which is optional, but I 
+</br>
+advice you to not use it… 
+</br>
+In my opinion, it’s more 
+</br>
+efficient to practice by 
+</br>
+yourself… Ankidroid is 
+</br>
+just a support).|
 
-|![Ankidroid: whiteboard](src/write1.jpg){: height="500" }|![Ankidroid: whiteboard](src/write2.jpg){: height="500" }|You can edit or add cards, import shared packages and there is a whiteboard.|
+|![Ankidroid: whiteboard](src/write1.jpg){: height="500" }|![Ankidroid: whiteboard](src/write2.jpg){: height="500" }|You can edit or add cards, 
+</br>
+import shared packages 
+</br>
+and there is a whiteboard.|
 
 > If you prefer interaction rather than practice, then you can test **Memrise** (through gamified tests). But you'll just benefit from fast memorization...
 
