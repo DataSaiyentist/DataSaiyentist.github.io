@@ -1,14 +1,8 @@
 ---
 title: Data Saiyentist
-bigimg: "20200820_162104.jpg"
 ---
 
-.window {
-    width:100%;
-    length:100%;
-}
-
-![Hunter X Hunter](20200820_162104.jpg "Drawn by zzyzzyyart"){: .window }  
+![Hunter X Hunter](20200820_162104.jpg "Drawn by zzyzzyyart") 
 
 
 Hello ! This is my personal website. The creation of this website has two purposes:
