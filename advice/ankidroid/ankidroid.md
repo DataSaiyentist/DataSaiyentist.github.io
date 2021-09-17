@@ -24,7 +24,7 @@ For example, you can:
 
 ## Why you should use it
 
-|![Filozoph](src/basic.jpg)|In my opinion, Anki is a program which makes remembering things easy. Because it's a lot more efficient than traditional study methods. For instance, if you have an exam in 1 week, you’ll begin to study it. If you study well, admittedly you’ll remember it for the exam, but maybe not after it.|
+|![Filozoph](src/basic.jpg)|In my opinion, Anki is a program which makes remembering things easy. Because it's a lot more efficient than traditional study methods. For instance, if you have an exam in the next few days, you’ll begin to study it. If you study well, admittedly you’ll remember it for the exam, but maybe not after it.|
 
 ![Fast and long-lasting memorization](src/longlasting.jpg)
 
@@ -34,7 +34,8 @@ Moreover, with Anki, you have at your disposal many functionalities.
 **You can share flashcard packages**. You have access to statistics about your performances.  
 And there are a large number of add-ons available.
 
-Personally, I got used to using it during my 2 year undergraduate intensive course and I greatly increase my English skills from A1 to A2 maybe B1.
+Personally, I got used to using it during my 2 year undergraduate intensive course  
+and I greatly increase my English skills from A1 to A2 maybe B1.
 
 ## How does it work
 
@@ -43,8 +44,8 @@ Personally, I got used to using it during my 2 year undergraduate intensive cour
 |![Ankidroid](src/ankidroid.png){: height="500" }|![Ankidroid: synchronization](src/home.jpg){: height="500" }|
 
 Let me just introduce you a little add-on which is **Ankidroid**.  
-Ankidroid is a phone application fully compatible with the software Anki  
-by **synchronization (so you have to create an account)**.
+Ankidroid is a phone application fully compatible with the software Anki by **synchronization**  
+**(so you have to create an account)**.
 
 It enables you to study all sorts of things wherever and whenever you want.  
 Personally, I made good use of idle times on bus, train and subway  
@@ -91,12 +92,12 @@ There are different type of cards but the most commonly used are:
 
 [Go back](../..)
 
-+---------------+---------------+--------------------+
+|---------------+---------------+--------------------|
 | Fruit         | Price         | Advantages         |
-+---------------+---------------+--------------------+
-| Bananas       | first line\   | first line\        |
+|---------------+---------------+--------------------|
+| Bananas       | first line\\  | first line\\       |
 |               | next line     | next line          |
-+---------------+---------------+--------------------+
-| Bananas       | first line\   | first line\        |
+|---------------+---------------+--------------------|
+| Bananas       | first line\\  | first line\\       |
 |               | next line     | next line          |
-+===============+===============+====================+
+|===============+===============+====================|
