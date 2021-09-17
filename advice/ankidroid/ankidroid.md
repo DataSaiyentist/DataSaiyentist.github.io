@@ -10,7 +10,7 @@ description: Personal advice (What I would have like to know sooner) and cultura
 
 ![Anki logo](src/anki.png){: height="300" }
 
-Anki is a free and open-source flashcard program.  
+[Anki](https://apps.ankiweb.net/) is a free and open-source flashcard program.  
 As mentioned by the program name, which means “memorization” in Japanese,  
 any user can **create a set of cards using text, images, sounds, videos and LaTeX**  
 in order to learn or remember something.
@@ -37,13 +37,15 @@ And there are a large number of add-ons available.
 Personally, I got used to using it during my 2 year undergraduate intensive course  
 and I greatly increase my English skills from A1 to A2 maybe B1.
 
+> If you're interested, [here](packages.zip) are two of my English packages.
+
 ## How does it work
 
 ### o Ankidroid
 
 |![Ankidroid](src/ankidroid.png){: height="500" }|![Ankidroid: synchronization](src/home.jpg){: height="500" }|
 
-Let me just introduce you a little add-on which is **Ankidroid**.  
+Let me just introduce you a little add-on which is **[Ankidroid](https://play.google.com/store/apps/details?id=com.ichi2.anki&hl=en&gl=us)**.  
 Ankidroid is a phone application fully compatible with the software Anki by **synchronization**  
 **(so you have to create an account)**.
 
