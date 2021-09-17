@@ -1,4 +1,8 @@
-# Ankidroid
+---
+layout: default
+title: Data Saiyentist
+description: Ankidroid
+---
 
 ## About Anki
 
@@ -70,3 +74,5 @@ There are different type of cards but the most commonly used are:
 * `Basic cards`
 * `Basic and reversed cards`
 * `Basic (type in the answer)`
+
+[back](././)
