@@ -2,7 +2,7 @@
 title: Data Saiyentist
 ---
 
-![Hunter X Hunter](20200820_162104.jpg "Drawn by GonTheDinosaur") 
+![Hunter X Hunter](20200820_162104.png "Drawn by Dave020626") 
 
 
 Hello ! This is my personal website. The creation of this website has two purposes:
