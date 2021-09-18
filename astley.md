@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Rick Astley - Never Gonna Give You Up
+title: Rick Astley-Never Gonna Give You Up
 description: Written by: Pete Waterman, Larry Stock, Matthew J. Aitken
 ---
 
