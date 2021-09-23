@@ -35,7 +35,7 @@ comics/ BDs, manga). I prescribe strongly to take a look at it.
 **However, I have to warn you that my judgement is purely subjective.**  
 **So, don't be hurt by my opinions and feel free to leave if you're offended !**
 
-**It's normal to disagree sometimes !**
+**It's normal to disagree sometimes !** :grin:
 
 ### o Movies
 
