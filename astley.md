@@ -6,6 +6,6 @@ description: Written by Pete Waterman, Larry Stock, Matthew J. Aitken
 
 # This is **NOT** a Rickroll ! Actually the music is nice. :smirk: :musical_note:
 
-# [Check a look a it !](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
+Check a look a it !
+</br>
 [Go back](index.md)
