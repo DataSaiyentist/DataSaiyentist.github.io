@@ -1,4 +1,6 @@
 theme: jekyll-theme-cayman
-icon_path: /assets/DS.ico
+favicon:
+  title: Data Saiyentist
+  icon_path: /assets/DS.ico
 plugins:
   - jemoji
